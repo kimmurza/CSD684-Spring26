@@ -10,4 +10,9 @@
 
         </section>
     </article>
-</pretext>
+</pretext><p>
+  This is a new <term>language</term>.
+  Here is a word we have chosen to <em>SLP</em>.
+  <alert>Check this out!</alert> This is a piece of
+  <c>code in a different font</c>.
+</p>
